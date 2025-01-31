@@ -4,10 +4,10 @@
 
 This is a practice project: a basic calculator built with HTML, CSS, and JavaScript. It supports basic arithmetic operations (addition, subtraction, multiplication, and division).
 
-Features:
-✅ Perform basic arithmetic operations (+, -, *, /, %)
-✅ Supports decimal numbers
-✅ Clear and delete functionality
+Features:<br>
+✅ Perform basic arithmetic operations (+, -, *, /, %)<br>
+✅ Supports decimal numbers<br>
+✅ Clear and delete functionality<br>
 This project was created as a learning exercise in JavaScript DOM manipulation and event handling.
 
 -You can view the live **demo** here: [Demo Link](https://nazanin-dev.github.io/calculator/).
